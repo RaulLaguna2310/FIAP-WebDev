@@ -15,8 +15,8 @@ cd nome-do-repositorio
 cd meu-app
 
 # Instale as dependências
-npm install
+npx install
 
 # Rode o projeto
-npm run dev
+npx run dev
 ```
