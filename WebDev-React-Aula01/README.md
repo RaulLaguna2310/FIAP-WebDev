@@ -1,9 +1,22 @@
-## Rodar o Projeto
-<br>
-<hr>
-<br>
-Para rodar o projeto certifique-se de que o terminal está na pasta raiz, se não estiver escreva no terminal: **cd meu-app**
-<br>
-<hr>
-<br>
-Agora dentro da pasta rais "meu-app", escreva o seguinte comando: **npm install**
+## Clonando o projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+# Acesse a pasta do projeto
+cd nome-do-repositorio
+```
+
+## Acessando e Inicializando o Projeto
+
+```bash
+# Entre na pasta do projeto
+cd meu-app
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm run dev
+```
